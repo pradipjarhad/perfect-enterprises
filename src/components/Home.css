@@ -1,0 +1,59 @@
+.top-container {
+  
+  position: relative; 
+  text-align: center;
+  color: rgb(87, 3, 3);
+  font-size: large;
+  width: auto;
+    height: 100vh; 
+} 
+
+.topMargin{
+  margin-top: 50px;
+}
+
+
+.top-container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+img {
+  max-width: 100%
+}
+.image {
+  flex-basis: 40%
+}
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
+
+
+
+
+.one h2 {
+  text-align: center;
+  text-transform: uppercase;
+  padding-bottom: 5px;
+}
+
+.one h2:after {
+  width: 100px;
+  height: 1px;
+  display: block;
+  content: "";
+  position: relative;
+  margin-top: 25px;
+  left: 50%;
+  margin-left: -50px;
+  background-color: #b80000;
+}
+
+
+
+
+  @media  screen and (max-width: 960px) {
+    .topMargin {
+  margin-top: 0px;
+    }}
