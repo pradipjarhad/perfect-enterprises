@@ -178,7 +178,7 @@ export default function Contact() {
 											<span class="fa fa-globe"></span>
 										</div>
 										<div class="text">
-											<p><span>Website</span></p><p> <a href="/">perfect-enterprises.in</a></p>
+											<p><span>Website</span></p><p> <a href="/">perfect-enterprises-shirur.in</a></p>
 										</div>
 									</div>
 								</div>
